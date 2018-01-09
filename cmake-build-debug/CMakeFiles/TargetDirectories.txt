@@ -1,0 +1,3 @@
+C:/Users/Jimmy/Desktop/cc3k/cmake-build-debug/CMakeFiles/cc3k.dir
+C:/Users/Jimmy/Desktop/cc3k/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Jimmy/Desktop/cc3k/cmake-build-debug/CMakeFiles/rebuild_cache.dir
